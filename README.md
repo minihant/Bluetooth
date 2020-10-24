@@ -14,6 +14,9 @@
 
 ## 物件交換規範 (OPP) 
 - 為Object Push Profile的簡稱，在附件裝置與手機通訊的情景中，既有手機發起資料傳輸請求也有裝置側發起傳輸請求的需要。
+
+## PBAP
+- 電話號碼簿訪問協議（PhonebookAccess Profile）
 ---
 # 藍牙編碼(Bluetooth Codec )介紹
 ## SBC(Sub-band coding)：
